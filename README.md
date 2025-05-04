@@ -107,7 +107,3 @@ The application includes UI elements for customization:
 The application uses the following environment variables:
 - `GROQ_API_KEY`: Your Groq API key
 - `OPENAI_API_KEY`: Your OpenAI API key
-
-## License
-
-MIT License
